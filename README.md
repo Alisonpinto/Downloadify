@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <h1>📥 Downloadify - YouTube Video Downloader with Python Backend</h1>
+  <h1> Downloadify - YouTube Video Downloader</h1>
 
   <p><strong>Downloadify</strong> is a fully responsive and beginner-friendly YouTube video downloader built using HTML, CSS, JavaScript for the frontend, and Python Flask for the backend. It offers a clean UI, smooth navigation, and a working contact form powered by EmailJS.</p>
 
@@ -33,20 +33,6 @@
   </ul>
 
   <hr>
-
-  <h2>📸 Screenshots</h2>
-  <table border="1">
-    <tr>
-      <th>Homepage</th>
-      <th>Download Section</th>
-      <th>Contact Form</th>
-    </tr>
-    <tr>
-      <td><img src="assets/screenshots/home.png" alt="Homepage"></td>
-      <td><img src="assets/screenshots/download.png" alt="Download Section"></td>
-      <td><img src="assets/screenshots/contact.png" alt="Contact Form"></td>
-    </tr>
-  </table>
 
   <p><em>(📷 Replace these with your actual screenshots or remove this section if not needed.)</em></p>
 
