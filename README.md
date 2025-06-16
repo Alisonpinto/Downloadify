@@ -34,19 +34,5 @@
 
   <hr>
 
-  <p><em>(📷 Replace these with your actual screenshots or remove this section if not needed.)</em></p>
-
-  <hr>
-
-  <h2>🚀 Getting Started</h2>
-
-  <h3>1. Clone the Repository</h3>
-  <pre>
-<code>
-git clone https://github.com/your-username/downloadify.git
-cd downloadify
-</code>
-  </pre>
-
 </body>
 </html>
