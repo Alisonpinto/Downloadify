@@ -1,38 +1,78 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
- 
-</head>
-<body>
+# 🎬 Downloadify — YouTube Video Downloader in MP4
 
-  <h1> Downloadify - YouTube Video Downloader</h1>
+Downloadify is a simple, no-ads, and instant *YouTube Video Downloader* built using Flask and yt-dlp.  
+Just paste a YouTube link, and grab your video in MP4 format — fast and clean.  
+✅ No sign-up required.  
+🎯 Works for most public YouTube videos.
 
-  <p><strong>Downloadify</strong> is a fully responsive and beginner-friendly YouTube video downloader built using HTML, CSS, JavaScript for the frontend, and Python Flask for the backend. It offers a clean UI, smooth navigation, and a working contact form powered by EmailJS.</p>
+Live on - https://downloadify-nwfm.onrender.com/
+---
 
-  <hr>
+## 🛠 Tech Stack
 
-  <h2>🔧 Features</h2>
-  <ul>
-    <li>✅ Paste a YouTube URL and download videos easily</li>
-    <li>✅ Fully responsive layout (mobile & desktop)</li>
-    <li>✅ Simple and clean user interface</li>
-    <li>✅ Working contact form with EmailJS integration</li>
-    <li>✅ Built with Flask backend for routing and server handling</li>
-    <li>✅ Ready for deployment on platforms like <a href="https://render.com" target="_blank">Render</a></li>
-  </ul>
+- 🐍 Python
+- 🔥 Flask (Backend)
+- 🎞 yt-dlp (Video downloading)
+- 🌐 HTML, CSS & JavaScript (Frontend)
+- 🚀 Render (for deployment)
 
-  <hr>
+---
 
-  <h2>🛠 Tech Stack</h2>
-  <ul>
-    <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
-    <li><strong>Backend:</strong> Python, Flask</li>
-    <li><strong>Email Service:</strong> EmailJS</li>
-    <li><strong>Deployment:</strong> Render</li>
-  </ul>
+## 📸 Screenshots
 
-  <hr>
+![Screenshot 2025-06-17 002855](https://github.com/user-attachments/assets/895480cf-399f-4f3b-a658-399b13c9e721)
 
-</body>
-</html>
+![Screenshot 2025-06-17 002908](https://github.com/user-attachments/assets/3116efac-e676-48bc-8c78-1941b5f077f4)
+
+---
+
+## 🚀 How to Run on Your Local Machine
+
+Absolutely! Here's a *short, clean, and well-explained* version of the *"Deploy on your local machine"* section — just replace the old one in the README with this:
+
+---
+
+## 🚀 Deploy on Your Local Machine
+
+1. *Clone the Repo*
+
+   bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   
+
+2. *Create Virtual Environment*
+
+   bash
+   python -m venv venv
+   
+
+3. *Activate It*
+
+   * Windows:
+
+     bash
+     venv\Scripts\activate
+     
+
+   * macOS/Linux:
+
+     bash
+     source venv/bin/activate
+     
+
+4. *Install Dependencies*
+
+   bash
+   pip install -r requirements.txt
+   
+
+5. *Run the App*
+
+   bash
+   python app.py
+   
+
+6. Open your browser and go to 👉 http://localhost:5000
+
+---
